@@ -33,54 +33,6 @@ LORD ALEX
 
 ## DEPLOY FREE ON VPS
 
-<p align="center"><strong>Limited Server 👻</strong></p>
-
-<p align="center">
-  <a href="https://jawadtech-vps.onrender.com" target="_blank">
-    <img width="1024" height="684" alt="IMG_20260519_152901" src="https://github.com/user-attachments/assets/6f6d81ca-b926-4650-8bba-e819333cec34" />
-    
-      src="https://img.shields.io/badge/🚀 Deploy_from_Free_VPS-ffI0XOI?style=for-the-badge&logo=github&logoColor=white" 
-      alt="Deploy Button"
-      width="280"
-    >
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lord alex/alexTechXD/refs/heads/main/lord alex.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
-</div>
-
----
-
-<h2 align="center">🛰️ Deployment Steps</h2>
-
-<div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
-
-  <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #ff00ff;">
-    <p style="color: #00ffff; font-size: 16px;">🚀 First, star & fork the repo using the button below:</p>
-    <a href='https://github.com/lord alex/lord alex/fork' target="_blank">
-      <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
-    </a>
-  </div>
-
-</div>
-
-<div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
-
-  <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #00ffff;">
-    <p style="color: #ff00ff; font-size: 16px;">📦 Next, deploy using your preferred method (Heroku, Railway, etc.)</p>
-    <ul style="color: #ffffff; line-height: 1.6;">
-      <li>📁 Clone or fork the repository</li>
-      <li>⚙️ Add your <code>.config</code> variables</li>
-      <li>🚀 Deploy using platform buttons or manual setup</li>
-    </ul>
-  </div>
-
-</div>
-  
----
 
 ## 🚀 Pairing Dashboard
 
